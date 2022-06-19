@@ -3,8 +3,6 @@ const userId = document.querySelector(".username");
 const userPassword = document.querySelector(".password")
 
 function login() {
-
-
     const username = userId.value;
     const password = userPassword.value;
 
@@ -15,7 +13,5 @@ function login() {
 loginForm.addEventListener("submit", login);
 
 if (localStorage.getItem("username") != null) {
-
-    window.location.href = "../html/index.html";
-
+    window.location.href = "main.html";
 }
