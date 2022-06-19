@@ -1,0 +1,18 @@
+footer {
+    margin-top: 80px;
+}
+
+.quote {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.author {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#weather {
+    font-size: 15px;
+    font-weight: 300;
+}

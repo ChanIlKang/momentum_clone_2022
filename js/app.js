@@ -27,5 +27,5 @@ if (savedUsername == null) {
 }
 else {
     drawGreeting();
-    greeting.innerText = `Hello ${savedUsername}!`;
+    greeting.innerText = `Good day ${savedUsername}!`;
 }

@@ -1,14 +1,19 @@
+@import 'todo-form.css';
+@import 'background.css';
+@import 'header.css';
+@import 'footer.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;500;700&display=swap');
+
+body {
+    margin: 0 auto;
+
+    text-align: center;
+
+    font-family: 'Noto Sans KR', sans-serif;
+    color: whitesmoke;
+}
+
 .hidden {
     display: none;
 }
-
-/*
-vanilla JS challenge Assignment Day 8~9
- h2 {
-    display: inline-block;
-}
-
-
-.font-weight__thin {
-    font-weight: 300 ;
-} */
