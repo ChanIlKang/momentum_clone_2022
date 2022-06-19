@@ -4,7 +4,7 @@ const bgImage = document.querySelector("body");
 
 function drawBg() {
     const img = new Image();
-    img.src = `../img/${images[Math.floor(Math.random() * images.length)]}`;
+    img.src = `./img/${images[Math.floor(Math.random() * images.length)]}`;
     img.classList.add("background-img");
     bgImage.appendChild(img);
 }
