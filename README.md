@@ -1,7 +1,5 @@
 # To_Do_List_App
 
-HTML, CSS, Javascript
-
 The languages used are HTML, CSS and Javascript.
 
 This is a simple app for creating to do list.
