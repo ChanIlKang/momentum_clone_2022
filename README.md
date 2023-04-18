@@ -10,3 +10,5 @@ This app can do these things.
 2. Deleate to-do list that user selected.
 3. Show good quotes randomly at the bottom of screen.
    (If user wants to get an another qoutes, refresh the page)
+4. User agrees to share the location, the local weather and temperature are notified.
+
