@@ -29,4 +29,3 @@ Javascript(ES6)
 # Environment Setup
 ---
 npm run dev
-### Run Frontend Server
